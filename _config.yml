@@ -42,17 +42,17 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Program"}
+# - {permalink: "/", text: "Home"}
+# - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Register"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+#bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Register"}
+#rightNavigationButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Register"}
 
 # Hero Block
 heroImage: "sevilleheader.jpg"
@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Variability", "Modeling", "Reasoning", "Industry"'
 typeoutFallback: "Season"
 heroButtons:
         # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+# - {permalink: "/#tickets", text: "Register"}
 
 # About Block
 aboutTitle: "About SPLC'17"
